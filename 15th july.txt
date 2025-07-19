@@ -1,0 +1,53 @@
+# java-class-2510
+CORE JAVA
+
+15 July 2025
+Introduction To Java
+Introduction To Programming
+What is Programming ?
+
+Programming is a way to "instruct the computer to perform tasks"
+
+
+
+
+
+
+
+Programming Paradigms
+Paradigms - pronounced as para - dime
+
+
+Programming paradigms refer to the styles and approaches for designing and structuring computer programs. 
+
+Imperative Paradigm
+The imperative paradigm is a programming style that focuses on describing how a program operates. The emphasis is on how to do something.
+
+Key Concept: Explicitly define the steps needed to achieve the desired outcome.
+
+
+Languages: Java, Python, C (when using loops and variables) etc
+Declarative Paradigm
+The declarative paradigm focuses on what to do, rather than how to do it.  The programmer specifies the desired result, and the language or system takes care of how to get there.
+
+Key Concept: Focus on the what rather than the how.
+
+
+Languages: SQL, HTML, CSS etc 
+
+
+
+
+Java Programming Language
+
+Java is a high-level, class-based, object-oriented programming language.
+
+
+
+
+
+
+
+
+
+
