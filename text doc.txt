@@ -44,6 +44,42 @@ Java is a high-level, class-based, object-oriented programming language.
 
 
 
+16 July 2025
+
+
+Version Control System - VCS
+Version control / Revision control / Source control is a system that helps to keep track of changes made to a file or a set of files (computer programs, web site files, documents etc) over time.
+
+
+Git
+We use GIT to keep track of changes made to files in laptops. 
+GitHub
+We use GITHUB to store code from all the developers in the project in a centralised place. 
+
+
+
+
+
+CLASS CODE
+https://github.com/ravi2krishna/java-2510.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
