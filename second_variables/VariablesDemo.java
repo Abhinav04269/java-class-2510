@@ -1,4 +1,4 @@
-package VariablesDemo;
+package second_variables;
 public class VariablesDemo {
 
     // datetype varname = value;
